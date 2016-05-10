@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FantasticRPG</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="playText">Play</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="newGameText">New Game</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
